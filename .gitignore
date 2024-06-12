@@ -1,0 +1,11 @@
+**/node_modules
+**/.vagrant
+**/.idea
+**/.DS_Store
+
+DASH-setup/logs
+/server/data/public/javascripts/dash.all.debug.js
+
+*.m4s
+*.mp4
+*.mov

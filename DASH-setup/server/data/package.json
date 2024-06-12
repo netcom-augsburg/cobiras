@@ -1,0 +1,20 @@
+{
+  "name": "metricexample",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "*.json"
+    ]
+  },
+  "dependencies": {
+    "express": "",
+    "log4js": "^6.3.0",
+    "nodemon": "",
+    "process": "^0.11.10",
+    "sleep-promise": "^8.0.1"
+  }
+}
